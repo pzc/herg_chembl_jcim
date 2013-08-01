@@ -1,4 +1,7 @@
-#! /usr/bin/env python
+# adapted from https://www.ebi.ac.uk/chembldb/index.php/ws#pythonClient
+# 
+# with great help from Daniel Kuhn
+# 
 
 import urllib2
 import json
